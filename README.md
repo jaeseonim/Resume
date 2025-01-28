@@ -10,7 +10,7 @@ I am a medical student at Dankook University College of Medicine with a strong i
 ## 🎓 Education
 - **Dankook University College of Medicine** (*Mar 2020 - Present*)
 
-## 🧪 Work Experience
+## 💻 Work Experience
 - **Research Trainee**, Division of Endocrinology and Center for Genetic Medicine Research, Children’s National Hospital, Washington, DC (*Jan 2025 - Present*)
   - Performed variant annotation and filtering of patient VCF files to identify clinically significant mutations aligned with patient phenotypes
   - Utilized tools such as Bedtools and VEP, along with reference databases including gnomAD and OMIM, to enhance the accuracy of genetic variant interpretation
@@ -28,7 +28,7 @@ I am a medical student at Dankook University College of Medicine with a strong i
 - **2nd Place**, 13th Student Academic Conference, Dankook University College of Medicine (*Dec 2021*)
 
 ## 🌟 Extracurricular Activity
-- 📰 **Editorial Team Member**, ToBeDoctor, National Medical Student Union Club (*May 2024 - Present*)
+- **Editorial Team Member**, ToBeDoctor, National Medical Student Union Club (*May 2024 - Present*)
 - **Co-founding Member**, RATEL, Interdisciplinary Studies Club, Dankook University College of Medicine (*Jan 2024 - Present*)
 - **Student Reporter**, Dankook University College of Medicine (*Jan 2024 - Dec 2024*)
 
