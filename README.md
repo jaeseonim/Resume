@@ -28,19 +28,6 @@ I am a medical student at Dankook University College of Medicine with a strong i
 ## 🔬 Research and Projects
 - *In progress*
 
-## 🏆 Awards
-- **3rd Place**, 2024 Biohealth Innovation Convergence University COSS Startup Competition (*Jun 2024*)
-  
-  - **Project Topic**: AI-based Digital Autobiography Creation Support Service
-    
-- **1st Place**, 2023 1st VISIONARY Dankook University College of Medicine Career Exploration Essay Contest (*Feb 2024*)
-  
-  - **Essay Title**: Since Life is Unpredictable, Let's Go Where My Heart Leads!
-    
-- **2nd Place**, 13th Student Academic Conference, Dankook University College of Medicine (*Dec 2021*)
-  
-  - **Research Topic**: Effect of Emotional Information Difference on P300 and MMN of Visually Evoked Late Latency Response
-
 ## 🌟 Extracurricular Activity
 - **Editorial Team Member**, ToBeDoctor, National Medical Student Union Club (*May 2024 - Present*)
 
@@ -58,6 +45,19 @@ I am a medical student at Dankook University College of Medicine with a strong i
 
   - Published 6 articles covering school events, personal essays, and interviews with faculty members.
   - Contributed to the medical college newsletter website(), providing relevant information and updates to the college community.
+
+## 🏆 Awards
+- **3rd Place**, 2024 Biohealth Innovation Convergence University COSS Startup Competition (*Jun 2024*)
+  
+  - **Project Topic**: AI-based Digital Autobiography Creation Support Service
+    
+- **1st Place**, 2023 1st VISIONARY Dankook University College of Medicine Career Exploration Essay Contest (*Feb 2024*)
+  
+  - **Essay Title**: Since Life is Unpredictable, Let's Go Where My Heart Leads!
+    
+- **2nd Place**, 13th Student Academic Conference, Dankook University College of Medicine (*Dec 2021*)
+  
+  - **Research Topic**: Effect of Emotional Information Difference on P300 and MMN of Visually Evoked Late Latency Response
 
 ## 📜 Certifications
 - **Computer Specialist in Spreadsheet and Database, Level-2**
