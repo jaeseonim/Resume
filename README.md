@@ -3,8 +3,7 @@
 ## About Me
 <img src="https://github.com/user-attachments/assets/08622d4c-bc42-49e1-834b-0ee98bfc39f5" alt="Profile Photo" width="300">
 
-
-I am a medical student at Dankook University College of Medicine with a passion for genetics, AI, and interdisciplinary research. My goal is ~ .
+> I am a medical student at Dankook University College of Medicine with a passion for genetics, AI, and interdisciplinary research. My goal is ~ .
 
 ## Contact
 - **E-mail:** [32203784@dankook.ac.kr](32203784@dankook.ac.kr)
