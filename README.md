@@ -9,6 +9,7 @@ I am a medical student at Dankook University College of Medicine with a strong i
 
 ## 🎓 Education
 - **Dankook University College of Medicine** (*Mar 2020 - Present*)
+
   - Served as a **Social Service Agent (사회복무요원)** from 2025 to 2026 while continuing academic and research activities. 
 
 ## 💻 Work Experience
