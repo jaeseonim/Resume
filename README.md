@@ -9,14 +9,16 @@ I am a medical student at Dankook University College of Medicine with a strong i
 
 ## 🎓 Education
 - **Dankook University College of Medicine** (*Mar 2020 - Present*)
+  - Served as a **Social Service Agent (사회복무요원)** from 2025 to 2026 while continuing academic and research activities. 
 
 ## 💻 Work Experience
 - **Research Trainee**, Division of Endocrinology and Center for Genetic Medicine Research, Children’s National Hospital, Washington, DC (*Jan 2025 - Present*)
-  - Performed variant annotation and filtering of patient VCF files to identify clinically significant mutations aligned with patient phenotypes
-  - Utilized tools such as Bedtools and VEP, along with reference databases including gnomAD and OMIM, to enhance the accuracy of genetic variant interpretation
-  - Employed Python, and command-line tools (Linux shell and Windows PowerShell), as well as Excel, to preprocess data and optimize variant analysis workflows
+  - **How I started**: Worked during a one-month stay in the U.S. and continued the project remotely while serving as a Social Service Agent.
+  - Analyzed patient VCF files to identify clinically significant genetic mutations using tools like Bedtools, VEP, and databases such as gnomAD and OMIM.
+  - Optimized variant analysis workflows with Python, command-line tools (Linux shell and Windows PowerShell), and Excel, improving accuracy and efficiency.
 
 - **Undergraduate Research Assistant**, Department of Pathology, Dankook University College of Medicine (*Jul 2024 - Dec 2024*)
+  - **How I started**: Supported a pathology professor’s research project during the **2024 Korea Medical Conflict (2024 대한민국 의정갈등)**. 
   - Preprocessed unstructured EMR data, including pathology reports, converting it into structured data in Excel for AI model development
 
 ## 🔬 Research and Projects
