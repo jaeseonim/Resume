@@ -44,7 +44,7 @@ I am a medical student at Dankook University College of Medicine with a strong i
 - **Student Reporter**, Dankook University College of Medicine (*Jan 2024 - Dec 2024*)
 
   - Published 6 articles covering school events, personal essays, and interviews with faculty members.
-  - Contributed to the medical college newsletter website(), providing relevant information and updates to the college community.
+  - Contributed to the [medical college newsletter website](https://med.dankook.ac.kr/web/med/-47), providing relevant information and updates to the college community.
 
 ## 🏆 Awards
 - **3rd Place**, 2024 Biohealth Innovation Convergence University COSS Startup Competition (*Jun 2024*)
