@@ -6,6 +6,7 @@ I am a medical student at Dankook University College of Medicine with a strong i
 ## 📬 Contact
 - **E-mail:** [32203784@dankook.ac.kr](mailto:32203784@dankook.ac.kr)
 - **GitHub**: [https://github.com/jaeseonim](https://github.com/jaeseonim)
+- **YouTube**: [https://www.youtube.com/@JaeseonIm](https://www.youtube.com/@JaeseonIm)
 
 ## 🎓 Education
 - **Dankook University College of Medicine** (*Mar 2020 - Present*)
