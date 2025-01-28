@@ -9,6 +9,7 @@ I am a medical student at Dankook University College of Medicine with a strong i
 
 ## 🎓 Education
 - **Dankook University College of Medicine** (*Mar 2020 - Present*)
+  
   - Served as a **Social Service Agent (사회복무요원)** from 2025 to 2026 while continuing academic and research activities. 
 
 ## 💻 Work Experience
@@ -18,7 +19,7 @@ I am a medical student at Dankook University College of Medicine with a strong i
   - Optimized variant analysis workflows with Python, command-line tools (Linux shell and Windows PowerShell), and Excel, improving accuracy and efficiency.
 
 - **Undergraduate Research Assistant**, Department of Pathology, Dankook University College of Medicine (*Jul 2024 - Dec 2024*)
-  - **How I started**: Supported a pathology professor’s research project during the **2024 South Korean medical crisis (2024 대한민국 의정갈등)**.
+  - **How I started**: Supported a pathology professor’s research project during the **2024 South Korean medical crisis**.
   - Preprocessed unstructured EMR data, including pathology reports, converting it into structured data in Excel for AI model development
 
 ## 🔬 Research and Projects
@@ -26,11 +27,14 @@ I am a medical student at Dankook University College of Medicine with a strong i
 
 ## 🏆 Awards
 - **3rd Place**, 2024 Biohealth Innovation Convergence University COSS Startup Competition (*Jun 2024*)
-  - Topic: 
+  
+  - **Project Topic**: AI-based Digital Autobiography Creation Support Service
 - **1st Place**, 2023 1st VISIONARY Dankook University College of Medicine Career Exploration Essay Contest (*Feb 2024*)
-  - Topic: 
+  
+  - **Essay Title**: Since Life is Unpredictable, Let's Go Where My Heart Leads!
 - **2nd Place**, 13th Student Academic Conference, Dankook University College of Medicine (*Dec 2021*)
-  - Topic: 
+  
+  - **Research Topic**: Effect of Emotional Information Difference on P300 and MMN of Visually Evoked Late Latency Response
 
 ## 🌟 Extracurricular Activity
 - **Editorial Team Member**, ToBeDoctor, National Medical Student Union Club (*May 2024 - Present*)
