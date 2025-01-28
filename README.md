@@ -1,7 +1,11 @@
 # Resume
 
+## About Me
+> I am a medical student at Dankook University College of Medicine with a passion for genetics, AI, and interdisciplinary research. My goal is ~ .
+
 ## Contact
-- **E-mail:** `32203784@dankook.ac.kr`
+- **E-mail:** [32203784@dankook.ac.kr](32203784@dankook.ac.kr)
+- **GitHub**: [https://github.com/jaeseonim](https://github.com/jaeseonim)
 
 ## Education
 - **Dankook University College of Medicine** (*Mar 2020 - Present*)
