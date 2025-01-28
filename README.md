@@ -1,7 +1,6 @@
 # Resume
 
 ## Contact
-![Profile Photo](https://github.com/user-attachments/assets/08622d4c-bc42-49e1-834b-0ee98bfc39f5) 
 - **E-mail:** `32203784@dankook.ac.kr`
 
 ## Education
