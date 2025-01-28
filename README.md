@@ -51,7 +51,8 @@ I am a medical student at Dankook University College of Medicine with a strong i
 
   - Served as the AI study leader, planning study sessions and creating custom learning materials.
   - Documented activities and resources in a dedicated [GitHub repository](https://github.com/jaeseonim/AI-Study-Group).
-  
+  - Started and directed the club, showcasing leadership and enhancing team collaboration.
+
 - **Student Reporter**, Dankook University College of Medicine (*Jan 2024 - Dec 2024*)
 
   - Published 6 articles covering school events, personal essays, and interviews with faculty members.
