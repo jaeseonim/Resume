@@ -23,7 +23,7 @@ I am a medical student at Dankook University College of Medicine with a strong i
 - **Undergraduate Research Assistant**, Department of Pathology, Dankook University College of Medicine (*Jul 2024 - Dec 2024*)
   
   - Supported a pathology professor’s research project during the [**2024 South Korean medical crisis**](https://en.wikipedia.org/wiki/2024_South_Korean_medical_crisis).
-  - Preprocessed unstructured EMR data, including pathology reports, converting it into structured data in Excel for AI model development
+  - Preprocessed unstructured EMR data, including pathology reports, converting it into structured data in Excel for AI model development.
 
 ## 🔬 Research and Projects
 - *In progress*
