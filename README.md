@@ -14,12 +14,14 @@ I am a medical student at Dankook University College of Medicine with a strong i
 
 ## 💻 Work Experience
 - **Research Trainee**, Division of Endocrinology and Center for Genetic Medicine Research, Children’s National Hospital, Washington, DC (*Jan 2025 - Present*)
-  - **How I started**: Worked during a one-month stay in the U.S. and continued the project remotely while serving as a Social Service Personnel.
+  
+  - Initiated collaboration during a one-month stay in the U.S. and continued the project remotely while serving as a Social Service Personnel.
   - Analyzed patient VCF files to identify clinically significant genetic mutations using tools like Bedtools, VEP, and databases such as gnomAD and OMIM.
   - Optimized variant analysis workflows with Python, command-line tools (Linux shell and Windows PowerShell), and Excel, improving accuracy and efficiency.
 
 - **Undergraduate Research Assistant**, Department of Pathology, Dankook University College of Medicine (*Jul 2024 - Dec 2024*)
-  - **How I started**: Supported a pathology professor’s research project during the [**2024 South Korean medical crisis**](https://en.wikipedia.org/wiki/2024_South_Korean_medical_crisis).
+  
+  - Supported a pathology professor’s research project during the [**2024 South Korean medical crisis**](https://en.wikipedia.org/wiki/2024_South_Korean_medical_crisis).
   - Preprocessed unstructured EMR data, including pathology reports, converting it into structured data in Excel for AI model development
 
 ## 🔬 Research and Projects
@@ -42,7 +44,7 @@ I am a medical student at Dankook University College of Medicine with a strong i
 - **Editorial Team Member**, [ToBeDoctor](https://tobedoctor.net/), National Medical Student Union Club (*May 2024 - Present*)
 
   - Conducted interviews with physicians and authored feature articles to guide medical students in exploring diverse career paths.
-  - Contributed to the planning and execution of AWeeK,  retrospective writing program that encouraged idea-sharing and reflection among medical students and young doctors.
+  - Contributed to the planning and execution of AWeeK, a retrospective writing program that encouraged idea-sharing and reflection among medical students and young doctors.
   - Collaborated with medical students nationwide, enhancing teamwork and communication skills.
     
 - **Co-founding Member**, RATEL, Interdisciplinary Studies Club, Dankook University College of Medicine (*Jan 2024 - Present*)
@@ -52,7 +54,7 @@ I am a medical student at Dankook University College of Medicine with a strong i
   
 - **Student Reporter**, Dankook University College of Medicine (*Jan 2024 - Dec 2024*)
 
-  - Published articles in every issue throughout the year, covering school events, personal essays, and interviews with faculty members.
+  - Published 6 articles covering school events, personal essays, and interviews with faculty members.
   - Contributed to the medical college newsletter website(), providing relevant information and updates to the college community.
 
 ## 📜 Certifications
