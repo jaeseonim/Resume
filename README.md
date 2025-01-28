@@ -19,7 +19,7 @@ I am a medical student at Dankook University College of Medicine with a strong i
   - Optimized variant analysis workflows with Python, command-line tools (Linux shell and Windows PowerShell), and Excel, improving accuracy and efficiency.
 
 - **Undergraduate Research Assistant**, Department of Pathology, Dankook University College of Medicine (*Jul 2024 - Dec 2024*)
-  - **How I started**: Supported a pathology professor’s research project during the **2024 South Korean medical crisis**(https://en.wikipedia.org/wiki/2024_South_Korean_medical_crisis).
+  - **How I started**: Supported a pathology professor’s research project during the [**2024 South Korean medical crisis**](https://en.wikipedia.org/wiki/2024_South_Korean_medical_crisis).
   - Preprocessed unstructured EMR data, including pathology reports, converting it into structured data in Excel for AI model development
 
 ## 🔬 Research and Projects
