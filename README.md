@@ -42,7 +42,7 @@ I am a medical student at Dankook University College of Medicine with a strong i
   - **Research Topic**: Effect of Emotional Information Difference on P300 and MMN of Visually Evoked Late Latency Response
 
 ## 🌟 Extracurricular Activity
-- **Editorial Team Member**, ToBeDoctor(https://tobedoctor.net/), National Medical Student Union Club (*May 2024 - Present*)
+- **Editorial Team Member**, ToBeDoctor, National Medical Student Union Club (*May 2024 - Present*)
 
   - Conducted interviews with physicians and crafted articles for [ToBeDoctor magazine](https://tobedoctor.net/magazine/), guiding medical students in exploring diverse career paths.
   - Contributed to the planning and execution of AWeeK, a retrospective writing program that encouraged idea-sharing and reflection among medical students and young doctors.
