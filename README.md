@@ -4,7 +4,7 @@
 I am a medical student at Dankook University College of Medicine with a strong interest in data analysis, AI, and programming. By combining my medical knowledge and technical skills, I aim to become a physician who innovates healthcare and improves patient outcomes through technology-driven solutions.
 
 ## Contact
-- **E-mail:** [32203784@dankook.ac.kr](32203784@dankook.ac.kr)
+- **E-mail:** [32203784@dankook.ac.kr](mailto:32203784@dankook.ac.kr)
 - **GitHub**: [https://github.com/jaeseonim](https://github.com/jaeseonim)
 
 ## Education
