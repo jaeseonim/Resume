@@ -27,8 +27,12 @@ I am a medical student at Dankook University College of Medicine with a strong i
 
 ## 🏆 Awards
 - **3rd Place**, 2024 Biohealth Innovation Convergence University COSS Startup Competition (*Jun 2024*)
+  Topic: 
 - **1st Place**, 2023 1st VISIONARY Dankook University College of Medicine Career Exploration Essay Contest (*Feb 2024*)
+
+  Topic:
 - **2nd Place**, 13th Student Academic Conference, Dankook University College of Medicine (*Dec 2021*)
+  - Topic: 
 
 ## 🌟 Extracurricular Activity
 - **Editorial Team Member**, ToBeDoctor, National Medical Student Union Club (*May 2024 - Present*)
