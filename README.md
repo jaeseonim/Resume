@@ -11,7 +11,7 @@ I am a medical student at Dankook University College of Medicine with a strong i
 ## 🎓 Education
 - **Dankook University College of Medicine** (*Mar 2020 - Present*)
   
-  - Served as a **[Social Service Personnel](https://en.wikipedia.org/wiki/Social_service_personnel) (사회복무요원)** from 2025 to 2026 while continuing academic and research activities. 
+  - Served as a **[Social Service Personnel](https://en.wikipedia.org/wiki/Social_service_personnel) (사회복무요원)** from 2025 to 2026. 
 
 ## 💻 Work Experience
 - **Research Trainee**, Division of Endocrinology and Center for Genetic Medicine Research, Children’s National Hospital, Washington, DC (*Jan 2025 - Present*)
