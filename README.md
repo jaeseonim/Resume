@@ -58,6 +58,3 @@ I am a medical student at Dankook University College of Medicine with a strong i
 - **2nd Place**, 13th Student Academic Conference, Dankook University College of Medicine (*Dec 2021*)
   
   - **Research Topic**: Effect of Emotional Information Difference on P300 and MMN of Visually Evoked Late Latency Response
-
-## 📜 Certifications
-- **Computer Specialist in Spreadsheet and Database, Level-2**
