@@ -16,7 +16,7 @@ I am a medical student at Dankook University College of Medicine with a strong i
 ## 💻 Work Experience
 - **Research Trainee**, Division of Endocrinology and Center for Genetic Medicine Research, Children’s National Hospital, Washington, DC (*Jan 2025 - Present*)
   
-  - Conducted a personal research project in the U.S. that later led to collaboration with the hospital research team, continuing remotely while serving as a Social Service Personnel.
+  - Conducted a personal research project in the U.S. and later collaborated remotely with the hospital research team while serving as a Social Service Personnel.
   - Analyzed patient VCF files to identify clinically significant genetic mutations using tools like Bedtools, VEP, and databases such as gnomAD and OMIM.
   - Optimized variant analysis workflows with Python, command-line tools (Linux shell and Windows PowerShell), and Excel, improving accuracy and efficiency.
 
