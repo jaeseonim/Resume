@@ -29,17 +29,17 @@ I am a medical student at Dankook University College of Medicine with a strong i
 - *In progress*
 
 ## 🌟 Extracurricular Activity
-- **Editorial Team Member**, ToBeDoctor, National Medical Student Union Club (*May 2024 - Present*)
-
-  - Conducted interviews with physicians and crafted articles for [ToBeDoctor magazine](https://tobedoctor.net/magazine/), guiding medical students in exploring diverse career paths.
-  - Contributed to the planning and execution of AWeeK, a retrospective writing program that encouraged idea-sharing and reflection among medical students and young doctors.
-  - Collaborated with medical students nationwide, enhancing teamwork and communication skills.
-    
 - **Co-founding Member**, RATEL, Interdisciplinary Studies Club, Dankook University College of Medicine (*Jan 2024 - Present*)
 
   - Served as the AI study leader, planning study sessions and creating custom learning materials.
   - Documented activities and resources in a dedicated [GitHub repository](https://github.com/jaeseonim/AI-Study-Group).
   - Founded and led the club, developing leadership skills and improving team project management capabilities.
+
+- **Editorial Team Member**, ToBeDoctor, National Medical Student Union Club (*May 2024 - Present*)
+
+  - Conducted interviews with physicians and crafted articles for [ToBeDoctor magazine](https://tobedoctor.net/magazine/), guiding medical students in exploring diverse career paths.
+  - Contributed to the planning and execution of AWeeK, a retrospective writing program that encouraged idea-sharing and reflection among medical students and young doctors.
+  - Collaborated with medical students nationwide, enhancing teamwork and communication skills.
 
 - **Student Reporter**, Dankook University College of Medicine (*Jan 2024 - Dec 2024*)
 
