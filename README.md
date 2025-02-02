@@ -1,7 +1,7 @@
 # Resume
 
 ## 🚀 About Me
-I am a medical student at Dankook University College of Medicine with a strong interest in **data analysis**, **programming**, and **AI**. By combining my medical knowledge and technical skills, I aim to become a doctor who **innovates healthcare** and **improves patient outcomes** through **technology-driven solutions**.
+I am a medical student at Dankook University College of Medicine with a strong interest in **data science** and **artificial intelligence**. By combining my medical knowledge and technical skills, I aim to become a doctor who **innovates healthcare** and **improves patient outcomes** through **technology-driven solutions**.
 
 ## 📬 Contact and Links
 - **E-mail:** [32203784@dankook.ac.kr](mailto:32203784@dankook.ac.kr)
