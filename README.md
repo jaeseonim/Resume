@@ -35,7 +35,7 @@ I am a medical student at Dankook University College of Medicine with a growing 
   - Documented activities and resources in a dedicated [GitHub repository](https://github.com/jaeseonim/AI-Study-Group).
   - Founded and led the club, developing leadership skills and improving team project management capabilities.
 
-- **Editorial Team Member**, ToBeDoctor, National Medical Student Union Club (*May 2024 - Present*)
+- **Editorial Team Member**, ToBeDoctor, National Medical Student Union Club (*May 2024 - Dec 2024*)
 
   - Conducted interviews with physicians and crafted articles for [ToBeDoctor magazine](https://tobedoctor.net/magazine/), guiding medical students in exploring diverse career paths.
   - Contributed to the planning and execution of AWeeK, a retrospective writing program that encouraged idea-sharing and reflection among medical students and young doctors.
