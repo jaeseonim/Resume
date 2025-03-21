@@ -2,6 +2,7 @@
 
 ## 🚀 About Me
 I am a medical student at Dankook University College of Medicine with a growing interest in **bioinformatics** and **AI**. By integrating my medical training with these fields, I aim to become a doctor who **innovates healthcare** and **improves patient outcomes** through **data-driven solutions**.
+I am also passionate about improving the environment for medical students who aspire to become physician-scientists. So, I have written interview articles featuring both domestic and international physician-scientists, and have planned programs that provide research opportunities to medical students across the country.
 
 ## 📬 Contact and Links
 - **E-mail:** [32203784@dankook.ac.kr](mailto:32203784@dankook.ac.kr)
