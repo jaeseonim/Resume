@@ -17,8 +17,9 @@ I am also passionate about **improving the environment** for medical students wh
 ## 💻 Work Experience
 - **Research Trainee**, Division of Endocrinology and Center for Genetic Medicine Research, Children’s National Hospital, Washington, DC (*Jan 2025 - Present*)
   
-  - Analyzed patient VCF files to identify clinically significant genetic mutations using tools like Bedtools, VEP, and databases such as gnomAD and OMIM.
-  - Optimized variant analysis workflows with Python, command-line tools (Linux shell and Windows PowerShell), and Excel, improving accuracy and efficiency.
+  - Performed end-to-end variant calling workflows on WGS/WES (Whole Genome/Exome Sequencing) data, including processing FASTQ files, aligning reads to the reference genome (SAM/BAM), generating VCF files, and conducting variant annotation and filtering to identify candidate genes.
+  - Utilized bioinformatics tools such as BWA-MEM, SAMtools, GATK, bcftools, and VEP in a Linux-based environment; also used Python and R for data analysis.
+  - Interpreted variants using genomic databases including gnomAD, OMIM, and MGI, incorporating allele frequency and disease association data to explore genotype-phenotype relationships.
 
 - **Undergraduate Research Assistant**, Department of Pathology, Dankook University College of Medicine (*Jul 2024 - Dec 2024*)
   
