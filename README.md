@@ -23,7 +23,7 @@ I am also passionate about **improving the environment** for medical students wh
   
   - Preprocessed unstructured EMR data, including pathology reports, converting it into structured data in Excel for AI model development.
 
-## 🔬 Research and Projects
+## 🔬 Research 
 - *In progress*
 
 ## 🌟 Extracurricular Activity
