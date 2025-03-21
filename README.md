@@ -2,12 +2,11 @@
 
 ## 🚀 About Me
 I am a medical student at Dankook University College of Medicine with a growing interest in **bioinformatics** and **AI**. By integrating my medical training with these fields, I aim to become a doctor who **innovates healthcare** and **improves patient outcomes** through **data-driven solutions**.  
-I am also passionate about **improving the environment** for medical students who aspire to become **physician-scientists**. So, I have written **interview articles** featuring both domestic and international physician-scientists, and have planned programs that that help medical students **develop an interest in research** across the country.
+I am also passionate about **improving the environment** for medical students who aspire to become **physician-scientists**. So, I have written interview articles featuring both domestic and international physician-scientists, aimed at helping medical students across the country develop an interest in research.
 
 ## 📬 Contact and Links
 - **E-mail:** [32203784@dankook.ac.kr](mailto:32203784@dankook.ac.kr)
 - **GitHub**: [https://github.com/jaeseonim](https://github.com/jaeseonim)
-- **YouTube**: [https://www.youtube.com/@JaeseonIm](https://www.youtube.com/@JaeseonIm)
 
 ## 🎓 Education
 - **Dankook University College of Medicine** (*Mar 2020 - Present*)
@@ -19,7 +18,6 @@ I am also passionate about **improving the environment** for medical students wh
   
   - Conducted variant calling workflows on WGS/WES data, beginning with alignment of FASTQ reads to generate SAM/BAM files and proceeding through VCF generation, annotation, and filtering to identify candidate genes.
   - Utilized bioinformatics tools such as BWA-MEM, SAMtools, GATK, bcftools, and VEP in a Linux-based environment; also used Python and R for data analysis.
-  - Interpreted variants using genomic databases including gnomAD, OMIM, and MGI, incorporating allele frequency and disease association data to explore genotype-phenotype relationships.
 
 - **Undergraduate Research Assistant**, Department of Pathology, Dankook University College of Medicine (*Jul 2024 - Dec 2024*)
   
@@ -33,17 +31,15 @@ I am also passionate about **improving the environment** for medical students wh
 
   - Served as the AI study leader, planning study sessions and creating custom learning materials.
   - Documented activities and resources in a dedicated [GitHub repository](https://github.com/jaeseonim/AI-Study-Group).
-  - Founded and led the club, developing leadership skills and improving team project management capabilities.
 
 - **Editorial Team Member**, ToBeDoctor, National Medical Student Union Club (*May 2024 - Present*)
 
   - Conducted interviews with physicians and crafted articles for [ToBeDoctor magazine](https://tobedoctor.net/magazine/), guiding medical students in exploring diverse career paths.
-  - Contributed to the planning and execution of AWeeK, a retrospective writing program that encouraged idea-sharing and reflection among medical students and young doctors.
-  - Collaborated with medical students nationwide, enhancing teamwork and communication skills.
+  - Led the technical implementation of AWeeK, a retrospective writing program for medical students and young doctors, by setting up a Slack channel and building an automated workflow using Python and Google Sheets.
 
 - **Student Reporter**, Dankook University College of Medicine (*Jan 2024 - Dec 2024*)
 
-  - Published 6 articles covering school events, personal essays, and interviews with faculty members.
+  - Published articles covering school events, personal essays, and interviews with faculty members.
   - Contributed to the [college newsletter website](https://med.dankook.ac.kr/web/med/-47), providing relevant information and updates to the college community.
 
 ## 🏆 Awards
