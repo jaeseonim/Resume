@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 I am a medical student at Dankook University College of Medicine with a growing interest in **bioinformatics** and **AI**. By integrating my medical training with these fields, I aim to become a doctor who **innovates healthcare** and **improves patient outcomes** through **data-driven solutions**.  
-I am also passionate about **improving the environment** for medical students who aspire to become **physician-scientists**. So, I have written **interview articles** featuring both domestic and international physician-scientists, and have planned programs that provide **research opportunities** to medical students across the country.
+I am also passionate about **improving the environment** for medical students who aspire to become **physician-scientists**. So, I have written **interview articles** featuring both domestic and international physician-scientists, and have planned programs that that help medical students **develop an interest in research** across the country.
 
 ## 📬 Contact and Links
 - **E-mail:** [32203784@dankook.ac.kr](mailto:32203784@dankook.ac.kr)
@@ -17,13 +17,11 @@ I am also passionate about **improving the environment** for medical students wh
 ## 💻 Work Experience
 - **Research Trainee**, Division of Endocrinology and Center for Genetic Medicine Research, Children’s National Hospital, Washington, DC (*Jan 2025 - Present*)
   
-  - Conducted a personal research project in the U.S. and later collaborated remotely with the hospital research team while serving as a Social Service Personnel.
   - Analyzed patient VCF files to identify clinically significant genetic mutations using tools like Bedtools, VEP, and databases such as gnomAD and OMIM.
   - Optimized variant analysis workflows with Python, command-line tools (Linux shell and Windows PowerShell), and Excel, improving accuracy and efficiency.
 
 - **Undergraduate Research Assistant**, Department of Pathology, Dankook University College of Medicine (*Jul 2024 - Dec 2024*)
   
-  - Supported a pathology professor’s research project during the [**2024 South Korean medical crisis**](https://en.wikipedia.org/wiki/2024_South_Korean_medical_crisis).
   - Preprocessed unstructured EMR data, including pathology reports, converting it into structured data in Excel for AI model development.
 
 ## 🔬 Research and Projects
