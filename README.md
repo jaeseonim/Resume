@@ -17,7 +17,7 @@ I am also passionate about **improving the environment** for medical students wh
 ## 💻 Work Experience
 - **Research Trainee**, Division of Endocrinology and Center for Genetic Medicine Research, Children’s National Hospital, Washington, DC (*Jan 2025 - Present*)
   
-  - Performed end-to-end variant calling workflows on WGS/WES (Whole Genome/Exome Sequencing) data, including processing FASTQ files, aligning reads to the reference genome (SAM/BAM), generating VCF files, and conducting variant annotation and filtering to identify candidate genes.
+  - Conducted variant calling workflows on WGS/WES data, beginning with alignment of FASTQ reads to generate SAM/BAM files and proceeding through VCF generation, annotation, and filtering to identify candidate genes.
   - Utilized bioinformatics tools such as BWA-MEM, SAMtools, GATK, bcftools, and VEP in a Linux-based environment; also used Python and R for data analysis.
   - Interpreted variants using genomic databases including gnomAD, OMIM, and MGI, incorporating allele frequency and disease association data to explore genotype-phenotype relationships.
 
