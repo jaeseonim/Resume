@@ -1,7 +1,7 @@
 # Resume
 
 ## 🚀 About Me
-I am a medical student at Dankook University College of Medicine with a growing interest in **bioinformatics** and **AI**. By integrating my medical training with these fields, I aim to become a doctor who **innovates healthcare** and **improves patient outcomes** through **data-driven solutions**.  
+I am a medical student at Dankook University College of Medicine with a growing interest in **bioinformatics**. By integrating my medical training with this field, I aim to become a doctor who **innovates healthcare** and **improves patient outcomes** through **data-driven solutions**.  
 I am also passionate about **improving the environment** for medical students who aspire to become **physician-scientists**. So, I have written interview articles featuring both domestic and international physician-scientists, aimed at helping medical students across the country develop an interest in research.
 
 ## 📬 Contact and Links
