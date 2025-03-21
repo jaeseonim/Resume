@@ -12,7 +12,7 @@ I am also passionate about **improving the environment** for medical students wh
 ## 🎓 Education
 - **Dankook University College of Medicine** (*Mar 2020 - Present*)
   
-  - Served as a **[Social Service Personnel](https://en.wikipedia.org/wiki/Social_service_personnel) (사회복무요원)** from 2025 to 2026. 
+  - Served as a **Social Service Personnel(사회복무요원)** at the Korea Foundation from 2025 to 2026. 
 
 ## 💻 Work Experience
 - **Research Trainee**, Division of Endocrinology and Center for Genetic Medicine Research, Children’s National Hospital, Washington, DC (*Jan 2025 - Present*)
